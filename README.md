@@ -65,6 +65,11 @@ This workflow retrieves relevant data and generates responses.
 ---
 
 ## 📸 Screenshots
+### 🔹 Data Storing Workflow
+![Data Storing](rag_data_storing.png)
+
+### 🔹 Data Fetching Workflow
+![Data Fetching](rag_data_fetching.png)
 
 
 
